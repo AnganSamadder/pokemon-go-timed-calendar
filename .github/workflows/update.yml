@@ -1,0 +1,71 @@
+name: Update calendar
+
+on:
+  push:
+    branches: [main]
+    paths-ignore: ['dist/**']
+  pull_request:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 */6 * * *'
+
+permissions:
+  contents: read
+
+concurrency:
+  group: calendar-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@5fda3b95a4ea91299a34e894583c3862153e4b97 # v7.0.0
+        with:
+          python-version: '3.12'
+      - run: python -m pip install -r requirements.txt
+      - run: python -m unittest -v
+
+  publish:
+    needs: validate
+    if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          ref: main
+          persist-credentials: false
+      - uses: actions/setup-python@5fda3b95a4ea91299a34e894583c3862153e4b97 # v7.0.0
+        with:
+          python-version: '3.12'
+      - run: python -m pip install -r requirements.txt
+      - name: Revalidate the exact publishing checkout
+        run: python -m unittest -v
+      - name: Build from live public source
+        run: python generate.py
+      - name: Commit and publish refreshed feed
+        id: publish
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          git add dist/pokemon-go-timed.ics dist/summary.json
+          if ! git diff --cached --quiet; then
+            git -c user.name='AnganSamadder' \
+              -c user.email='69088711+AnganSamadder@users.noreply.github.com' \
+              commit -m 'chore: refresh public event calendar'
+          fi
+          git -c credential.helper='!gh auth git-credential' push --atomic \
+            "https://github.com/${GITHUB_REPOSITORY}.git" HEAD:main
+          echo "sha=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
+      - name: Verify published files
+        env:
+          PUBLISHED_SHA: ${{ steps.publish.outputs.sha }}
+        run: |
+          python -c 'import os, urllib.request; from pathlib import Path; names=("pokemon-go-timed.ics", "summary.json"); repo=os.environ["GITHUB_REPOSITORY"]; sha=os.environ["PUBLISHED_SHA"]; base=f"https://raw.githubusercontent.com/{repo}/{sha}/dist"; mismatches=[name for name in names if urllib.request.urlopen(f"{base}/{name}", timeout=60).read() != Path("dist", name).read_bytes()]; assert not mismatches, f"Published files differ from validated build: {mismatches}"; print("Published feed and summary verified")'
