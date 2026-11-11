@@ -4,40 +4,10 @@ PRODID:-//Timed Events Calendar//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:Pokémon GO — Timed Events
 BEGIN:VEVENT
-SUMMARY:Starts: Great League: Mega Edition\, Ultra League: Mega Edition\, 
- and Master League: Mega Edition | Twilight Trails
-DTSTART:20261103T210000Z
-DTEND:20261103T211500Z
-DTSTAMP:20261111T061446Z
-UID:d4c62a36-dcd6-5e48-b2d8-a2221bdfcc5b@calendar.invalid
-DESCRIPTION:Original start: 2026-11-03T21:00:00.000Z\nOriginal end: 2026-1
- 1-10T21:00:00.000Z\nSource: https://leekduck.com/events/gbl-twilight-trail
- s_great-league-mega-edition_ultra-league-mega-edition_master-league-mega-e
- dition-split-3/\n15-minute start marker.
-TRANSP:TRANSPARENT
-URL:https://leekduck.com/events/gbl-twilight-trails_great-league-mega-edit
- ion_ultra-league-mega-edition_master-league-mega-edition-split-3/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ends: Great League: Mega Edition\, Ultra League: Mega Edition\, an
- d Master League: Mega Edition | Twilight Trails
-DTSTART:20261110T210000Z
-DTEND:20261110T211500Z
-DTSTAMP:20261111T061446Z
-UID:86a6e440-5332-5815-9c55-5bbf5f2da076@calendar.invalid
-DESCRIPTION:Original start: 2026-11-03T21:00:00.000Z\nOriginal end: 2026-1
- 1-10T21:00:00.000Z\nSource: https://leekduck.com/events/gbl-twilight-trail
- s_great-league-mega-edition_ultra-league-mega-edition_master-league-mega-e
- dition-split-3/\n15-minute end marker.
-TRANSP:TRANSPARENT
-URL:https://leekduck.com/events/gbl-twilight-trails_great-league-mega-edit
- ion_ultra-league-mega-edition_master-league-mega-edition-split-3/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Starts: Into the Wild 2026
 DTSTART:20261109T100000
 DTEND:20261109T101500
-DTSTAMP:20261111T061446Z
+DTSTAMP:20261111T142552Z
 UID:bbd235e4-5f5c-54b4-a48e-1d1edec37bab@calendar.invalid
 DESCRIPTION:Original start: 2026-11-09T10:00:00.000\nOriginal end: 2026-11
  -13T20:00:00.000\nSource: https://leekduck.com/events/into-the-wild-2026/\
@@ -49,7 +19,7 @@ BEGIN:VEVENT
 SUMMARY:Ends: Into the Wild 2026
 DTSTART:20261113T200000
 DTEND:20261113T201500
-DTSTAMP:20261111T061446Z
+DTSTAMP:20261111T142552Z
 UID:6bd31fed-98e0-5da2-b8eb-fccc1f9c253c@calendar.invalid
 DESCRIPTION:Original start: 2026-11-09T10:00:00.000\nOriginal end: 2026-11
  -13T20:00:00.000\nSource: https://leekduck.com/events/into-the-wild-2026/\
@@ -62,7 +32,7 @@ SUMMARY:Starts: Zacian (Crowned Sword) and Zamazenta (Crowned Shield) in 5
  -star Raid Battles
 DTSTART:20261109T100000
 DTEND:20261109T101500
-DTSTAMP:20261111T061446Z
+DTSTAMP:20261111T142552Z
 UID:f3bb26ce-0227-5ad5-90be-14dcc1c2c643@calendar.invalid
 DESCRIPTION:Original start: 2026-11-09T10:00:00.000\nOriginal end: 2026-11
  -13T20:00:00.000\nSource: https://leekduck.com/events/zacian-crowned-sword
@@ -77,7 +47,7 @@ SUMMARY:Ends: Zacian (Crowned Sword) and Zamazenta (Crowned Shield) in 5-s
  tar Raid Battles
 DTSTART:20261113T200000
 DTEND:20261113T201500
-DTSTAMP:20261111T061446Z
+DTSTAMP:20261111T142552Z
 UID:8ce470a4-f44f-5b4f-84d3-0d4c7c232397@calendar.invalid
 DESCRIPTION:Original start: 2026-11-09T10:00:00.000\nOriginal end: 2026-11
  -13T20:00:00.000\nSource: https://leekduck.com/events/zacian-crowned-sword
@@ -91,7 +61,7 @@ BEGIN:VEVENT
 SUMMARY:Starts: Pokémon GO Wild Area 2026: Global
 DTSTART:20261114T100000
 DTEND:20261114T101500
-DTSTAMP:20261111T061446Z
+DTSTAMP:20261111T142552Z
 UID:f1170d76-d8b5-5260-bcd5-e8037f878649@calendar.invalid
 DESCRIPTION:Original start: 2026-11-14T10:00:00.000\nOriginal end: 2026-11
  -15T18:00:00.000\nSource: https://leekduck.com/events/pokemon-go-wild-area
@@ -103,7 +73,7 @@ BEGIN:VEVENT
 SUMMARY:Ends: Pokémon GO Wild Area 2026: Global
 DTSTART:20261115T180000
 DTEND:20261115T181500
-DTSTAMP:20261111T061446Z
+DTSTAMP:20261111T142552Z
 UID:d27fb5a3-85f6-5ebc-9474-4fe5e5edf882@calendar.invalid
 DESCRIPTION:Original start: 2026-11-14T10:00:00.000\nOriginal end: 2026-11
  -15T18:00:00.000\nSource: https://leekduck.com/events/pokemon-go-wild-area
@@ -115,7 +85,7 @@ BEGIN:VEVENT
 SUMMARY:Starts: GO Wild Area: Gigantamax Machamp Power Up! Timed Research
 DTSTART:20261106T100000
 DTEND:20261106T101500
-DTSTAMP:20261111T061446Z
+DTSTAMP:20261111T142552Z
 UID:0a358007-667b-53ae-96f2-18ecdc6bfb8c@calendar.invalid
 DESCRIPTION:Original start: 2026-11-06T10:00:00.000\nOriginal end: 2026-11
  -15T23:59:00.000\nSource: https://leekduck.com/events/go-wild-area-giganta
@@ -128,7 +98,7 @@ BEGIN:VEVENT
 SUMMARY:Ends: GO Wild Area: Gigantamax Machamp Power Up! Timed Research
 DTSTART:20261115T235900
 DTEND:20261116T001400
-DTSTAMP:20261111T061446Z
+DTSTAMP:20261111T142552Z
 UID:9991fd56-9c72-568e-bf28-7a5af72d7408@calendar.invalid
 DESCRIPTION:Original start: 2026-11-06T10:00:00.000\nOriginal end: 2026-11
  -15T23:59:00.000\nSource: https://leekduck.com/events/go-wild-area-giganta
@@ -141,7 +111,7 @@ BEGIN:VEVENT
 SUMMARY:Max Monday: Pokémon to be announced
 DTSTART:20261116T060000
 DTEND:20261116T210000
-DTSTAMP:20261111T061446Z
+DTSTAMP:20261111T142552Z
 UID:81b31292-7e67-5351-b47c-494598ad9900@calendar.invalid
 DESCRIPTION:Original start: 2026-11-16T06:00:00.000\nOriginal end: 2026-11
  -16T21:00:00.000\nSource: https://leekduck.com/events/max-mondays-2026-11-
@@ -154,7 +124,7 @@ SUMMARY:Starts: Great League\, Ultra League: Mega Edition\, and 2026 GO LA
  IC Cup | Twilight Trails
 DTSTART:20261110T210000Z
 DTEND:20261110T211500Z
-DTSTAMP:20261111T061446Z
+DTSTAMP:20261111T142552Z
 UID:d406222d-5d66-5e89-9582-b5cb2e2a63ed@calendar.invalid
 DESCRIPTION:Original start: 2026-11-10T21:00:00.000Z\nOriginal end: 2026-1
  1-17T21:00:00.000Z\nSource: https://leekduck.com/events/gbl-twilight-trail
@@ -169,7 +139,7 @@ SUMMARY:Ends: Great League\, Ultra League: Mega Edition\, and 2026 GO LAIC
   Cup | Twilight Trails
 DTSTART:20261117T210000Z
 DTEND:20261117T211500Z
-DTSTAMP:20261111T061446Z
+DTSTAMP:20261111T142552Z
 UID:88879b81-0957-5ba7-9461-2bf22cec6652@calendar.invalid
 DESCRIPTION:Original start: 2026-11-10T21:00:00.000Z\nOriginal end: 2026-1
  1-17T21:00:00.000Z\nSource: https://leekduck.com/events/gbl-twilight-trail
@@ -183,7 +153,7 @@ BEGIN:VEVENT
 SUMMARY:Cresselia and Darkrai Raid Hour
 DTSTART:20261118T180000
 DTEND:20261118T190000
-DTSTAMP:20261111T061446Z
+DTSTAMP:20261111T142552Z
 UID:f6b6877e-d997-5b7f-b5d5-b18c18f61fa8@calendar.invalid
 DESCRIPTION:Original start: 2026-11-18T18:00:00.000\nOriginal end: 2026-11
  -18T19:00:00.000\nSource: https://leekduck.com/events/raidhour20261118/\nF
@@ -195,7 +165,7 @@ BEGIN:VEVENT
 SUMMARY:Grookey\, Scorbunny\, and Sobble Spotlight Hour
 DTSTART:20261119T180000
 DTEND:20261119T190000
-DTSTAMP:20261111T061446Z
+DTSTAMP:20261111T142552Z
 UID:2cec34a6-fdde-5d3c-b3ef-1ffe6e698f57@calendar.invalid
 DESCRIPTION:Original start: 2026-11-19T18:00:00.000\nOriginal end: 2026-11
  -19T19:00:00.000\nSource: https://leekduck.com/events/pokemonspotlighthour
@@ -207,7 +177,7 @@ BEGIN:VEVENT
 SUMMARY:Starts: Minior Showers: Leonids 2026
 DTSTART:20261114T170000
 DTEND:20261114T171500
-DTSTAMP:20261111T061446Z
+DTSTAMP:20261111T142552Z
 UID:c2abd0f8-048c-524e-8abb-b7c00dce10d9@calendar.invalid
 DESCRIPTION:Original start: 2026-11-14T17:00:00.000\nOriginal end: 2026-11
  -19T23:59:00.000\nSource: https://leekduck.com/events/minior-showers-leoni
@@ -219,7 +189,7 @@ BEGIN:VEVENT
 SUMMARY:Ends: Minior Showers: Leonids 2026
 DTSTART:20261119T235900
 DTEND:20261120T001400
-DTSTAMP:20261111T061446Z
+DTSTAMP:20261111T142552Z
 UID:190cbf1e-ce39-5646-9afb-be0dc35e8d52@calendar.invalid
 DESCRIPTION:Original start: 2026-11-14T17:00:00.000\nOriginal end: 2026-11
  -19T23:59:00.000\nSource: https://leekduck.com/events/minior-showers-leoni
@@ -231,7 +201,7 @@ BEGIN:VEVENT
 SUMMARY:Eternamax Eternatus Returns
 DTSTART:20261121T110000
 DTEND:20261121T140000
-DTSTAMP:20261111T061446Z
+DTSTAMP:20261111T142552Z
 UID:5ec0e503-deb1-5d65-91f7-cc98cc1db7ba@calendar.invalid
 DESCRIPTION:Original start: 2026-11-21T11:00:00.000\nOriginal end: 2026-11
  -21T14:00:00.000\nSource: https://leekduck.com/events/eternamax-eternatus-
@@ -243,7 +213,7 @@ BEGIN:VEVENT
 SUMMARY:Pawniard Community Day
 DTSTART:20261121T140000
 DTEND:20261121T170000
-DTSTAMP:20261111T061446Z
+DTSTAMP:20261111T142552Z
 UID:5d9285de-2c06-59ed-9ed3-e06e368dfda4@calendar.invalid
 DESCRIPTION:Original start: 2026-11-21T14:00:00.000\nOriginal end: 2026-11
  -21T17:00:00.000\nSource: https://leekduck.com/events/november-communityda
@@ -255,7 +225,7 @@ BEGIN:VEVENT
 SUMMARY:Starts: Dynamax Trails
 DTSTART:20261116T100000
 DTEND:20261116T101500
-DTSTAMP:20261111T061446Z
+DTSTAMP:20261111T142552Z
 UID:bd1eb390-b2de-583a-b7da-a846b9d5f7a6@calendar.invalid
 DESCRIPTION:Original start: 2026-11-16T10:00:00.000\nOriginal end: 2026-11
  -23T20:00:00.000\nSource: https://leekduck.com/events/dynamax-trails-2026/
@@ -267,7 +237,7 @@ BEGIN:VEVENT
 SUMMARY:Ends: Dynamax Trails
 DTSTART:20261123T200000
 DTEND:20261123T201500
-DTSTAMP:20261111T061446Z
+DTSTAMP:20261111T142552Z
 UID:ea5ebb87-1c32-574e-adec-ded07f142053@calendar.invalid
 DESCRIPTION:Original start: 2026-11-16T10:00:00.000\nOriginal end: 2026-11
  -23T20:00:00.000\nSource: https://leekduck.com/events/dynamax-trails-2026/
@@ -279,7 +249,7 @@ BEGIN:VEVENT
 SUMMARY:Dynamax Espurr during Max Monday
 DTSTART:20261123T060000
 DTEND:20261123T210000
-DTSTAMP:20261111T061446Z
+DTSTAMP:20261111T142552Z
 UID:a869e7d5-2c59-5a89-a87e-c40d7e406db3@calendar.invalid
 DESCRIPTION:Original start: 2026-11-23T06:00:00.000\nOriginal end: 2026-11
  -23T21:00:00.000\nSource: https://leekduck.com/events/max-mondays-2026-11-
@@ -291,7 +261,7 @@ BEGIN:VEVENT
 SUMMARY:Starts: Cresselia and Darkrai in 5-star Raid Battles
 DTSTART:20261116T060000
 DTEND:20261116T061500
-DTSTAMP:20261111T061446Z
+DTSTAMP:20261111T142552Z
 UID:35472076-79c7-5058-9966-f2fc44f0e8c6@calendar.invalid
 DESCRIPTION:Original start: 2026-11-16T06:00:00.000\nOriginal end: 2026-11
  -24T22:00:00.000\nSource: https://leekduck.com/events/cresselia-darkrai-in
@@ -304,7 +274,7 @@ BEGIN:VEVENT
 SUMMARY:Ends: Cresselia and Darkrai in 5-star Raid Battles
 DTSTART:20261124T220000
 DTEND:20261124T221500
-DTSTAMP:20261111T061446Z
+DTSTAMP:20261111T142552Z
 UID:d2c13a72-929c-5fbf-ad89-0b7ad0f534cc@calendar.invalid
 DESCRIPTION:Original start: 2026-11-16T06:00:00.000\nOriginal end: 2026-11
  -24T22:00:00.000\nSource: https://leekduck.com/events/cresselia-darkrai-in
@@ -317,7 +287,7 @@ BEGIN:VEVENT
 SUMMARY:Starts: Mega Banette in Mega Raids
 DTSTART:20261116T060000
 DTEND:20261116T061500
-DTSTAMP:20261111T061446Z
+DTSTAMP:20261111T142552Z
 UID:eda9b5ac-8e63-535b-9438-096519f706bd@calendar.invalid
 DESCRIPTION:Original start: 2026-11-16T06:00:00.000\nOriginal end: 2026-11
  -24T22:00:00.000\nSource: https://leekduck.com/events/mega-banette-in-mega
@@ -329,7 +299,7 @@ BEGIN:VEVENT
 SUMMARY:Ends: Mega Banette in Mega Raids
 DTSTART:20261124T220000
 DTEND:20261124T221500
-DTSTAMP:20261111T061446Z
+DTSTAMP:20261111T142552Z
 UID:ee0747f4-4e1f-5e23-985d-6f67ef83e72f@calendar.invalid
 DESCRIPTION:Original start: 2026-11-16T06:00:00.000\nOriginal end: 2026-11
  -24T22:00:00.000\nSource: https://leekduck.com/events/mega-banette-in-mega
@@ -342,7 +312,7 @@ SUMMARY:Starts: Ultra League\, Master League: Mega Edition\, and 2026 GO L
  AIC Cup | Twilight Trails
 DTSTART:20261118T210000Z
 DTEND:20261118T211500Z
-DTSTAMP:20261111T061446Z
+DTSTAMP:20261111T142552Z
 UID:adbc67c5-f399-5ac6-a64d-256a3b97c5b0@calendar.invalid
 DESCRIPTION:Original start: 2026-11-18T21:00:00.000Z\nOriginal end: 2026-1
  1-25T21:00:00.000Z\nSource: https://leekduck.com/events/gbl-twilight-trail
@@ -357,7 +327,7 @@ SUMMARY:Ends: Ultra League\, Master League: Mega Edition\, and 2026 GO LAI
  C Cup | Twilight Trails
 DTSTART:20261125T210000Z
 DTEND:20261125T211500Z
-DTSTAMP:20261111T061446Z
+DTSTAMP:20261111T142552Z
 UID:067d29b8-1399-52fd-9440-e960dbf0b483@calendar.invalid
 DESCRIPTION:Original start: 2026-11-18T21:00:00.000Z\nOriginal end: 2026-1
  1-25T21:00:00.000Z\nSource: https://leekduck.com/events/gbl-twilight-trail
@@ -371,7 +341,7 @@ BEGIN:VEVENT
 SUMMARY:Deoxys (Normal\, Defense\, Attack\, and Speed Formes) Raid Hour
 DTSTART:20261125T180000
 DTEND:20261125T190000
-DTSTAMP:20261111T061446Z
+DTSTAMP:20261111T142552Z
 UID:787adb4f-5143-557f-a0ba-12420be593e7@calendar.invalid
 DESCRIPTION:Original start: 2026-11-25T18:00:00.000\nOriginal end: 2026-11
  -25T19:00:00.000\nSource: https://leekduck.com/events/raidhour20261125/\nF
@@ -383,7 +353,7 @@ BEGIN:VEVENT
 SUMMARY:Noibat Spotlight Hour
 DTSTART:20261126T180000
 DTEND:20261126T190000
-DTSTAMP:20261111T061446Z
+DTSTAMP:20261111T142552Z
 UID:21f39cd0-b608-513c-95b8-7e1253d400da@calendar.invalid
 DESCRIPTION:Original start: 2026-11-26T18:00:00.000\nOriginal end: 2026-11
  -26T19:00:00.000\nSource: https://leekduck.com/events/pokemonspotlighthour
@@ -395,7 +365,7 @@ BEGIN:VEVENT
 SUMMARY:Clefable Super Mega Raid Day
 DTSTART:20261128T140000
 DTEND:20261128T170000
-DTSTAMP:20261111T061446Z
+DTSTAMP:20261111T142552Z
 UID:103a0c48-6dd7-5468-ac8b-a67af732d962@calendar.invalid
 DESCRIPTION:Original start: 2026-11-28T14:00:00.000\nOriginal end: 2026-11
  -28T17:00:00.000\nSource: https://leekduck.com/events/clefable-super-mega-
@@ -407,7 +377,7 @@ BEGIN:VEVENT
 SUMMARY:Starts: Twilight Wishes
 DTSTART:20261124T100000
 DTEND:20261124T101500
-DTSTAMP:20261111T061446Z
+DTSTAMP:20261111T142552Z
 UID:cb833b79-5c35-50a8-a43e-8b4a6287f725@calendar.invalid
 DESCRIPTION:Original start: 2026-11-24T10:00:00.000\nOriginal end: 2026-11
  -30T20:00:00.000\nSource: https://leekduck.com/events/twilight-wishes-2026
@@ -419,7 +389,7 @@ BEGIN:VEVENT
 SUMMARY:Ends: Twilight Wishes
 DTSTART:20261130T200000
 DTEND:20261130T201500
-DTSTAMP:20261111T061446Z
+DTSTAMP:20261111T142552Z
 UID:cb9e82f2-ce7e-5427-83e4-13e951e94803@calendar.invalid
 DESCRIPTION:Original start: 2026-11-24T10:00:00.000\nOriginal end: 2026-11
  -30T20:00:00.000\nSource: https://leekduck.com/events/twilight-wishes-2026
@@ -431,7 +401,7 @@ BEGIN:VEVENT
 SUMMARY:Dynamax Cryogonal during Max Monday
 DTSTART:20261130T060000
 DTEND:20261130T210000
-DTSTAMP:20261111T061446Z
+DTSTAMP:20261111T142552Z
 UID:5ec8035b-24cd-51fe-854a-52780284feb2@calendar.invalid
 DESCRIPTION:Original start: 2026-11-30T06:00:00.000\nOriginal end: 2026-11
  -30T21:00:00.000\nSource: https://leekduck.com/events/max-mondays-2026-11-
@@ -443,7 +413,7 @@ BEGIN:VEVENT
 SUMMARY:Starts: Twilight Trails
 DTSTART:20260908T100000
 DTEND:20260908T101500
-DTSTAMP:20261111T061446Z
+DTSTAMP:20261111T142552Z
 UID:fed2fa60-ac12-5fb2-bd46-bbe8498e2b85@calendar.invalid
 DESCRIPTION:Original start: 2026-09-08T10:00:00.000\nOriginal end: 2026-12
  -01T10:00:00.000\nSource: https://leekduck.com/events/season-24-twilight-t
@@ -455,7 +425,7 @@ BEGIN:VEVENT
 SUMMARY:Ends: Twilight Trails
 DTSTART:20261201T100000
 DTEND:20261201T101500
-DTSTAMP:20261111T061446Z
+DTSTAMP:20261111T142552Z
 UID:27d60ddd-e914-5e0d-93d3-7909786157d7@calendar.invalid
 DESCRIPTION:Original start: 2026-09-08T10:00:00.000\nOriginal end: 2026-12
  -01T10:00:00.000\nSource: https://leekduck.com/events/season-24-twilight-t
@@ -467,7 +437,7 @@ BEGIN:VEVENT
 SUMMARY:Starts: GO Pass: November
 DTSTART:20261103T100000
 DTEND:20261103T101500
-DTSTAMP:20261111T061446Z
+DTSTAMP:20261111T142552Z
 UID:b553f481-4966-5d90-8a51-50a1b074c856@calendar.invalid
 DESCRIPTION:Original start: 2026-11-03T10:00:00.000\nOriginal end: 2026-12
  -01T10:00:00.000\nSource: https://leekduck.com/events/go-pass-november-202
@@ -479,7 +449,7 @@ BEGIN:VEVENT
 SUMMARY:Ends: GO Pass: November
 DTSTART:20261201T100000
 DTEND:20261201T101500
-DTSTAMP:20261111T061446Z
+DTSTAMP:20261111T142552Z
 UID:fae1f7e8-c5b3-507b-a01f-5b19833324fe@calendar.invalid
 DESCRIPTION:Original start: 2026-11-03T10:00:00.000\nOriginal end: 2026-12
  -01T10:00:00.000\nSource: https://leekduck.com/events/go-pass-november-202
@@ -492,7 +462,7 @@ SUMMARY:Starts: Master League and Mega Catch Cup: Great League Edition | T
  wilight Trails
 DTSTART:20261124T210000Z
 DTEND:20261124T211500Z
-DTSTAMP:20261111T061446Z
+DTSTAMP:20261111T142552Z
 UID:59065d76-13be-5eae-9b90-30ea95eea242@calendar.invalid
 DESCRIPTION:Original start: 2026-11-24T21:00:00.000Z\nOriginal end: 2026-1
  2-01T21:00:00.000Z\nSource: https://leekduck.com/events/gbl-twilight-trail
@@ -507,7 +477,7 @@ SUMMARY:Ends: Master League and Mega Catch Cup: Great League Edition | Twi
  light Trails
 DTSTART:20261201T210000Z
 DTEND:20261201T211500Z
-DTSTAMP:20261111T061446Z
+DTSTAMP:20261111T142552Z
 UID:0f672b6c-fb5f-52a7-8740-70f87b93cb2a@calendar.invalid
 DESCRIPTION:Original start: 2026-11-24T21:00:00.000Z\nOriginal end: 2026-1
  2-01T21:00:00.000Z\nSource: https://leekduck.com/events/gbl-twilight-trail
@@ -521,7 +491,7 @@ BEGIN:VEVENT
 SUMMARY:Starts: Shadow Tornadus (Incarnate Forme) in Shadow Raids
 DTSTART:20261116T060000
 DTEND:20261116T061500
-DTSTAMP:20261111T061446Z
+DTSTAMP:20261111T142552Z
 UID:17fa3ff3-92a0-5bfe-b56a-1a2aa0d190b7@calendar.invalid
 DESCRIPTION:Original start: 2026-11-16T06:00:00.000\nOriginal end: 2026-12
  -01T22:00:00.000\nSource: https://leekduck.com/events/shadow-tornadus-inca
@@ -534,7 +504,7 @@ BEGIN:VEVENT
 SUMMARY:Ends: Shadow Tornadus (Incarnate Forme) in Shadow Raids
 DTSTART:20261201T220000
 DTEND:20261201T221500
-DTSTAMP:20261111T061446Z
+DTSTAMP:20261111T142552Z
 UID:1b8b0d0f-1f28-57a3-ba46-1c9ba178a2aa@calendar.invalid
 DESCRIPTION:Original start: 2026-11-16T06:00:00.000\nOriginal end: 2026-12
  -01T22:00:00.000\nSource: https://leekduck.com/events/shadow-tornadus-inca
@@ -548,7 +518,7 @@ SUMMARY:Starts: Deoxys (Normal\, Defense\, Attack\, and Speed Formes) in 5
  -star Raid Battles
 DTSTART:20261125T060000
 DTEND:20261125T061500
-DTSTAMP:20261111T061446Z
+DTSTAMP:20261111T142552Z
 UID:91f3ee87-9dc2-546c-93e0-eeef3163e1a6@calendar.invalid
 DESCRIPTION:Original start: 2026-11-25T06:00:00.000\nOriginal end: 2026-12
  -01T22:00:00.000\nSource: https://leekduck.com/events/deoxys-normal-defens
@@ -563,7 +533,7 @@ SUMMARY:Ends: Deoxys (Normal\, Defense\, Attack\, and Speed Formes) in 5-s
  tar Raid Battles
 DTSTART:20261201T220000
 DTEND:20261201T221500
-DTSTAMP:20261111T061446Z
+DTSTAMP:20261111T142552Z
 UID:7158a962-b857-507a-a773-6aa9d7d018bb@calendar.invalid
 DESCRIPTION:Original start: 2026-11-25T06:00:00.000\nOriginal end: 2026-12
  -01T22:00:00.000\nSource: https://leekduck.com/events/deoxys-normal-defens
@@ -577,7 +547,7 @@ BEGIN:VEVENT
 SUMMARY:Starts: Mega Metagross in Mega Raids
 DTSTART:20261125T060000
 DTEND:20261125T061500
-DTSTAMP:20261111T061446Z
+DTSTAMP:20261111T142552Z
 UID:33e58782-da56-587e-a9d1-7dd83d02e03d@calendar.invalid
 DESCRIPTION:Original start: 2026-11-25T06:00:00.000\nOriginal end: 2026-12
  -01T22:00:00.000\nSource: https://leekduck.com/events/mega-metagross-in-me
@@ -590,7 +560,7 @@ BEGIN:VEVENT
 SUMMARY:Ends: Mega Metagross in Mega Raids
 DTSTART:20261201T220000
 DTEND:20261201T221500
-DTSTAMP:20261111T061446Z
+DTSTAMP:20261111T142552Z
 UID:c6463b5e-6c5a-5a33-8e98-f5a000e42381@calendar.invalid
 DESCRIPTION:Original start: 2026-11-25T06:00:00.000\nOriginal end: 2026-12
  -01T22:00:00.000\nSource: https://leekduck.com/events/mega-metagross-in-me
@@ -603,7 +573,7 @@ BEGIN:VEVENT
 SUMMARY:Max Battle Day
 DTSTART:20261205T140000
 DTEND:20261205T170000
-DTSTAMP:20261111T061446Z
+DTSTAMP:20261111T142552Z
 UID:1b0c2406-0290-5f8f-bbdb-49b519502519@calendar.invalid
 DESCRIPTION:Original start: 2026-12-05T14:00:00.000\nOriginal end: 2026-12
  -05T17:00:00.000\nSource: https://leekduck.com/events/max-battle-day-decem
@@ -615,7 +585,7 @@ BEGIN:VEVENT
 SUMMARY:Starts: December Community Day
 DTSTART:20261212T140000
 DTEND:20261212T141500
-DTSTAMP:20261111T061446Z
+DTSTAMP:20261111T142552Z
 UID:5c77ac4c-eefd-5298-afc7-1ff758cbe5c5@calendar.invalid
 DESCRIPTION:Original start: 2026-12-12T14:00:00.000\nOriginal end: 2026-12
  -13T17:00:00.000\nSource: https://leekduck.com/events/december-communityda
@@ -627,7 +597,7 @@ BEGIN:VEVENT
 SUMMARY:Ends: December Community Day
 DTSTART:20261213T170000
 DTEND:20261213T171500
-DTSTAMP:20261111T061446Z
+DTSTAMP:20261111T142552Z
 UID:c38ad85d-97b7-5236-9f6a-b6baaf148ddb@calendar.invalid
 DESCRIPTION:Original start: 2026-12-12T14:00:00.000\nOriginal end: 2026-12
  -13T17:00:00.000\nSource: https://leekduck.com/events/december-communityda
@@ -639,7 +609,7 @@ BEGIN:VEVENT
 SUMMARY:Starts: Minior Showers: Geminids 2026
 DTSTART:20261211T170000
 DTEND:20261211T171500
-DTSTAMP:20261111T061446Z
+DTSTAMP:20261111T142552Z
 UID:ee16fd50-5785-5697-82b9-468c9a65fb0d@calendar.invalid
 DESCRIPTION:Original start: 2026-12-11T17:00:00.000\nOriginal end: 2026-12
  -16T23:59:00.000\nSource: https://leekduck.com/events/minior-showers-gemin
@@ -651,7 +621,7 @@ BEGIN:VEVENT
 SUMMARY:Ends: Minior Showers: Geminids 2026
 DTSTART:20261216T235900
 DTEND:20261217T001400
-DTSTAMP:20261111T061446Z
+DTSTAMP:20261111T142552Z
 UID:1450ee27-49a6-5d1a-9d62-8a285a4f30fd@calendar.invalid
 DESCRIPTION:Original start: 2026-12-11T17:00:00.000\nOriginal end: 2026-12
  -16T23:59:00.000\nSource: https://leekduck.com/events/minior-showers-gemin
@@ -663,7 +633,7 @@ BEGIN:VEVENT
 SUMMARY:Raid Day
 DTSTART:20261219T140000
 DTEND:20261219T170000
-DTSTAMP:20261111T061446Z
+DTSTAMP:20261111T142552Z
 UID:698e37ec-6ec0-53de-8cc6-e2f41f86ef19@calendar.invalid
 DESCRIPTION:Original start: 2026-12-19T14:00:00.000\nOriginal end: 2026-12
  -19T17:00:00.000\nSource: https://leekduck.com/events/raid-day-december-20
@@ -675,7 +645,7 @@ BEGIN:VEVENT
 SUMMARY:Hatch Day
 DTSTART:20261226T110000
 DTEND:20261226T170000
-DTSTAMP:20261111T061446Z
+DTSTAMP:20261111T142552Z
 UID:289d446b-9bf8-5fdf-9f6b-a6817e8efeee@calendar.invalid
 DESCRIPTION:Original start: 2026-12-26T11:00:00.000\nOriginal end: 2026-12
  -26T17:00:00.000\nSource: https://leekduck.com/events/hatch-day-december-2
@@ -687,7 +657,7 @@ BEGIN:VEVENT
 SUMMARY:January Community Day Classic
 DTSTART:20270102T140000
 DTEND:20270102T170000
-DTSTAMP:20261111T061446Z
+DTSTAMP:20261111T142552Z
 UID:5da45c64-aed5-520b-8e03-df41370fb216@calendar.invalid
 DESCRIPTION:Original start: 2027-01-02T14:00:00.000\nOriginal end: 2027-01
  -02T17:00:00.000\nSource: https://leekduck.com/events/january-communityday
@@ -699,7 +669,7 @@ BEGIN:VEVENT
 SUMMARY:Super Mega Raid Day
 DTSTART:20270109T140000
 DTEND:20270109T170000
-DTSTAMP:20261111T061446Z
+DTSTAMP:20261111T142552Z
 UID:64ee3888-2021-541b-be7d-0822a92ae2c7@calendar.invalid
 DESCRIPTION:Original start: 2027-01-09T14:00:00.000\nOriginal end: 2027-01
  -09T17:00:00.000\nSource: https://leekduck.com/events/super-mega-raid-day-
@@ -711,7 +681,7 @@ BEGIN:VEVENT
 SUMMARY:Starts: adidas × Pokémon Timed Research
 DTSTART:20260925T100000
 DTEND:20260925T101500
-DTSTAMP:20261111T061446Z
+DTSTAMP:20261111T142552Z
 UID:aa66bfac-99bf-50e6-9aeb-028f1deab56f@calendar.invalid
 DESCRIPTION:Original start: 2026-09-25T10:00:00.000\nOriginal end: 2027-01
  -15T20:00:00.000\nSource: https://leekduck.com/events/pokemon-x-adidas-202
@@ -723,7 +693,7 @@ BEGIN:VEVENT
 SUMMARY:Ends: adidas × Pokémon Timed Research
 DTSTART:20270115T200000
 DTEND:20270115T201500
-DTSTAMP:20261111T061446Z
+DTSTAMP:20261111T142552Z
 UID:c3ef966f-0219-55d8-9545-3290cb7a89c2@calendar.invalid
 DESCRIPTION:Original start: 2026-09-25T10:00:00.000\nOriginal end: 2027-01
  -15T20:00:00.000\nSource: https://leekduck.com/events/pokemon-x-adidas-202
@@ -735,7 +705,7 @@ BEGIN:VEVENT
 SUMMARY:January Community Day
 DTSTART:20270116T140000
 DTEND:20270116T170000
-DTSTAMP:20261111T061446Z
+DTSTAMP:20261111T142552Z
 UID:8029358c-1a7d-524d-a69c-3578a60d7837@calendar.invalid
 DESCRIPTION:Original start: 2027-01-16T14:00:00.000\nOriginal end: 2027-01
  -16T17:00:00.000\nSource: https://leekduck.com/events/january-communityday
@@ -747,7 +717,7 @@ BEGIN:VEVENT
 SUMMARY:Max Battle Day
 DTSTART:20270123T140000
 DTEND:20270123T170000
-DTSTAMP:20261111T061446Z
+DTSTAMP:20261111T142552Z
 UID:88892677-c3a1-5b01-9f32-890c5b18729d@calendar.invalid
 DESCRIPTION:Original start: 2027-01-23T14:00:00.000\nOriginal end: 2027-01
  -23T17:00:00.000\nSource: https://leekduck.com/events/max-battle-day-janua
@@ -759,7 +729,7 @@ BEGIN:VEVENT
 SUMMARY:Super Mega Raid Day
 DTSTART:20270130T140000
 DTEND:20270130T170000
-DTSTAMP:20261111T061446Z
+DTSTAMP:20261111T142552Z
 UID:6147070f-79af-545a-b402-55006a10827b@calendar.invalid
 DESCRIPTION:Original start: 2027-01-30T14:00:00.000\nOriginal end: 2027-01
  -30T17:00:00.000\nSource: https://leekduck.com/events/super-mega-raid-day-
@@ -771,7 +741,7 @@ BEGIN:VEVENT
 SUMMARY:February Community Day
 DTSTART:20270206T140000
 DTEND:20270206T170000
-DTSTAMP:20261111T061446Z
+DTSTAMP:20261111T142552Z
 UID:8ed9a33c-9e3d-5a93-bbe6-e634ac66017e@calendar.invalid
 DESCRIPTION:Original start: 2027-02-06T14:00:00.000\nOriginal end: 2027-02
  -06T17:00:00.000\nSource: https://leekduck.com/events/february-communityda
@@ -783,7 +753,7 @@ BEGIN:VEVENT
 SUMMARY:Raid Day
 DTSTART:20270213T140000
 DTEND:20270213T170000
-DTSTAMP:20261111T061446Z
+DTSTAMP:20261111T142552Z
 UID:c4d6c23b-8852-57d0-81f6-bc5115f24347@calendar.invalid
 DESCRIPTION:Original start: 2027-02-13T14:00:00.000\nOriginal end: 2027-02
  -13T17:00:00.000\nSource: https://leekduck.com/events/raid-day-february-20
@@ -795,7 +765,7 @@ BEGIN:VEVENT
 SUMMARY:Starts: Pokémon GO Tour: Alola - Kaohsiung 2027
 DTSTART:20270218T160000Z
 DTEND:20270218T161500Z
-DTSTAMP:20261111T061446Z
+DTSTAMP:20261111T142552Z
 UID:759ae609-16b5-5763-b7d1-eca65acfae23@calendar.invalid
 DESCRIPTION:Original start: 2027-02-18T16:00:00.000Z\nOriginal end: 2027-0
  2-21T15:59:59.000Z\nSource: https://leekduck.com/events/pokemon-go-tour-al
@@ -807,7 +777,7 @@ BEGIN:VEVENT
 SUMMARY:Ends: Pokémon GO Tour: Alola - Kaohsiung 2027
 DTSTART:20270221T155959Z
 DTEND:20270221T161459Z
-DTSTAMP:20261111T061446Z
+DTSTAMP:20261111T142552Z
 UID:1fa81554-5424-5185-b077-18898bfd0b59@calendar.invalid
 DESCRIPTION:Original start: 2027-02-18T16:00:00.000Z\nOriginal end: 2027-0
  2-21T15:59:59.000Z\nSource: https://leekduck.com/events/pokemon-go-tour-al
@@ -819,7 +789,7 @@ BEGIN:VEVENT
 SUMMARY:Starts: Pokémon GO Tour: Alola - Los Angeles 2027
 DTSTART:20270219T080000Z
 DTEND:20270219T081500Z
-DTSTAMP:20261111T061446Z
+DTSTAMP:20261111T142552Z
 UID:289deb1b-9dfe-5ba4-b0fa-c2beab630956@calendar.invalid
 DESCRIPTION:Original start: 2027-02-19T08:00:00.000Z\nOriginal end: 2027-0
  2-22T07:59:59.000Z\nSource: https://leekduck.com/events/pokemon-go-tour-al
@@ -831,7 +801,7 @@ BEGIN:VEVENT
 SUMMARY:Ends: Pokémon GO Tour: Alola - Los Angeles 2027
 DTSTART:20270222T075959Z
 DTEND:20270222T081459Z
-DTSTAMP:20261111T061446Z
+DTSTAMP:20261111T142552Z
 UID:e34f9c80-7f4d-52c2-b124-68d8473a1231@calendar.invalid
 DESCRIPTION:Original start: 2027-02-19T08:00:00.000Z\nOriginal end: 2027-0
  2-22T07:59:59.000Z\nSource: https://leekduck.com/events/pokemon-go-tour-al
@@ -843,7 +813,7 @@ BEGIN:VEVENT
 SUMMARY:Starts: Pokémon GO Tour: Alola - Global 2027
 DTSTART:20270227T000000
 DTEND:20270227T001500
-DTSTAMP:20261111T061446Z
+DTSTAMP:20261111T142552Z
 UID:c21f5d5a-e7da-5106-8ab8-562613af1b80@calendar.invalid
 DESCRIPTION:Original start: 2027-02-27T00:00:00.000\nOriginal end: 2027-02
  -28T23:59:59.000\nSource: https://leekduck.com/events/pokemon-go-tour-alol
@@ -855,7 +825,7 @@ BEGIN:VEVENT
 SUMMARY:Ends: Pokémon GO Tour: Alola - Global 2027
 DTSTART:20270228T235959
 DTEND:20270301T001459
-DTSTAMP:20261111T061446Z
+DTSTAMP:20261111T142552Z
 UID:8cb0a53e-240d-5fc4-bd1e-9e39b80b0871@calendar.invalid
 DESCRIPTION:Original start: 2027-02-27T00:00:00.000\nOriginal end: 2027-02
  -28T23:59:59.000\nSource: https://leekduck.com/events/pokemon-go-tour-alol
@@ -867,7 +837,7 @@ BEGIN:VEVENT
 SUMMARY:Starts: Minior Showers: Eta Aquariids 2027
 DTSTART:20270503T170000
 DTEND:20270503T171500
-DTSTAMP:20261111T061446Z
+DTSTAMP:20261111T142552Z
 UID:e847983a-2389-5981-ad07-7706df89596f@calendar.invalid
 DESCRIPTION:Original start: 2027-05-03T17:00:00.000\nOriginal end: 2027-05
  -08T23:59:00.000\nSource: https://leekduck.com/events/minior-showers-eta-a
@@ -879,7 +849,7 @@ BEGIN:VEVENT
 SUMMARY:Ends: Minior Showers: Eta Aquariids 2027
 DTSTART:20270508T235900
 DTEND:20270509T001400
-DTSTAMP:20261111T061446Z
+DTSTAMP:20261111T142552Z
 UID:5d5c3f48-53a2-5a30-ab84-953269dfc49d@calendar.invalid
 DESCRIPTION:Original start: 2027-05-03T17:00:00.000\nOriginal end: 2027-05
  -08T23:59:00.000\nSource: https://leekduck.com/events/minior-showers-eta-a
@@ -891,7 +861,7 @@ BEGIN:VEVENT
 SUMMARY:Starts: Minior Showers: Southern Delta Aquariids 2027
 DTSTART:20270728T170000
 DTEND:20270728T171500
-DTSTAMP:20261111T061446Z
+DTSTAMP:20261111T142552Z
 UID:de0f395b-2e9a-5ad5-b725-33003060aa97@calendar.invalid
 DESCRIPTION:Original start: 2027-07-28T17:00:00.000\nOriginal end: 2027-08
  -02T23:59:00.000\nSource: https://leekduck.com/events/minior-showers-south
@@ -904,7 +874,7 @@ BEGIN:VEVENT
 SUMMARY:Ends: Minior Showers: Southern Delta Aquariids 2027
 DTSTART:20270802T235900
 DTEND:20270803T001400
-DTSTAMP:20261111T061446Z
+DTSTAMP:20261111T142552Z
 UID:af2066eb-47d3-54c1-a0d1-22c6b1e14803@calendar.invalid
 DESCRIPTION:Original start: 2027-07-28T17:00:00.000\nOriginal end: 2027-08
  -02T23:59:00.000\nSource: https://leekduck.com/events/minior-showers-south
@@ -917,7 +887,7 @@ BEGIN:VEVENT
 SUMMARY:Starts: Minior Showers: Perseids 2027
 DTSTART:20270810T170000
 DTEND:20270810T171500
-DTSTAMP:20261111T061446Z
+DTSTAMP:20261111T142552Z
 UID:0af38dc3-0982-5bbf-8d86-73b286a8e816@calendar.invalid
 DESCRIPTION:Original start: 2027-08-10T17:00:00.000\nOriginal end: 2027-08
  -15T23:59:00.000\nSource: https://leekduck.com/events/minior-showers-perse
@@ -929,7 +899,7 @@ BEGIN:VEVENT
 SUMMARY:Ends: Minior Showers: Perseids 2027
 DTSTART:20270815T235900
 DTEND:20270816T001400
-DTSTAMP:20261111T061446Z
+DTSTAMP:20261111T142552Z
 UID:910acfcd-d445-5548-8820-1ce49bc444c4@calendar.invalid
 DESCRIPTION:Original start: 2027-08-10T17:00:00.000\nOriginal end: 2027-08
  -15T23:59:00.000\nSource: https://leekduck.com/events/minior-showers-perse
