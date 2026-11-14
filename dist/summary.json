@@ -1,21 +1,21 @@
 {
-  "calendar_entries": 72,
+  "calendar_entries": 68,
   "date_only_endpoints": 0,
   "duplicate_source_events": 0,
-  "end_markers": 26,
-  "events_with_no_timed_endpoint": 0,
-  "generated_at": "2026-11-14T06:19:56.642490Z",
-  "omitted_end_endpoints": 0,
-  "omitted_start_endpoints": 0,
+  "end_markers": 24,
+  "events_with_no_timed_endpoint": 2,
+  "generated_at": "2026-11-14T17:59:26.753645Z",
+  "omitted_end_endpoints": 2,
+  "omitted_start_endpoints": 2,
   "source_events": 46,
   "source_url": "https://raw.githubusercontent.com/bigfoott/ScrapedDuck/data/events.min.json",
   "source_urls": {
     "documentation": "https://github.com/bigfoott/ScrapedDuck/wiki/Events",
     "events": "https://raw.githubusercontent.com/bigfoott/ScrapedDuck/data/events.min.json"
   },
-  "start_markers": 26,
+  "start_markers": 24,
   "timed_events": 20,
   "unique_source_events": 46,
-  "unknown_endpoints": 0,
+  "unknown_endpoints": 4,
   "utc_endpoints": 10
 }
